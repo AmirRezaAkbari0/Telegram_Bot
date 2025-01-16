@@ -1,0 +1,9 @@
+course: mcsa
+name: Aaaaaaaaaaaaaaa
+phone: 2222222222222222222222
+course: django2
+name: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+phone: 435678654
+course: python
+name: aaaa
+phone: 111111
